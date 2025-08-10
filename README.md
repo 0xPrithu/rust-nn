@@ -149,9 +149,6 @@ Using the sigmoid function makes the neuron behave more like a
 between 0 and 1, we use the **sigmoid function**:
 $$\sigma(x) = \frac{1}{1 + e^{-x}}$$
 
-![The sigmoid function squashes any number between 0 and
-1.](sigmoid_graph.png){width="80%"}
-
 # Building a Jacket Predictor Neuron
 
 As mentioned in the introduction, our goal is to make a simple predictor
